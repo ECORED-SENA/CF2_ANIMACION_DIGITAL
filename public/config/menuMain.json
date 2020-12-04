@@ -1,0 +1,78 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "lenguaje_audiovisual",
+    "title": "1. Lenguaje audiovisual",    
+    "path": "pages/tema-1.html"    
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "guion_tecnico",
+    "title": "2. Guión técnico",    
+    "path": "pages/tema-2.html"      
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "tecnicas_formatos_storyboard",
+    "title": "3. Técnicas y formatos de storyboarding",    
+    "path": "pages/tema-3.html"    
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "dibujo_basico",
+    "title": "4. Dibujo básico",    
+    "path": "pages/tema-4.html"    
+  },
+  {
+    "id": 5,
+    "icon": "fa fa-file-text",
+    "slug": "herramientas_dibujo",
+    "title": "4.1 Herramientas de dibujo",    
+    "path": "pages/tema-4-1.html"    
+  },
+  {
+    "id": 6,
+    "icon": "fa fa-play-circle",
+    "slug": "bocetacion",
+    "title": "4.2 Bocetación",    
+    "path": "pages/tema-4-2.html"    
+  },
+  {
+    "id": 7,
+    "icon": "fa fa-play-circle",
+    "slug": "perspectiva",
+    "title": "4.3 Perspectiva",    
+    "path": "pages/tema-4-3.html"    
+  },
+  {
+    "id": 8,
+    "icon": "fa fa-file-text",
+    "slug": "abstraccion_lineas_accion",
+    "title": "4.4 Abstracción y líneas de acción",    
+    "path": "pages/tema-4-4.html"    
+  },
+  {
+    "id": 9,
+    "icon": "fa fa-file-text",
+    "slug": "tramas",
+    "title": "4.5 Tramas",    
+    "path": "pages/tema-4-5.html"    
+  }, 
+  {
+    "id": 15,
+    "icon": "fa fa-file-text",
+    "slug": "elevator_pitch",
+    "title": "5. Elevator pitch",    
+    "path": "pages/tema-5.html"    
+  }  
+]
