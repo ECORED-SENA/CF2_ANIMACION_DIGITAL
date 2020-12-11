@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145.922" height="146.425" viewBox="0 0 145.922 146.425">
+  <g id="Grupo_31564" data-name="Grupo 31564" transform="translate(-542 -3229)">
+    <circle id="Elipse_1072" data-name="Elipse 1072" cx="67.5" cy="67.5" r="67.5" transform="translate(542 3229)" fill="#e0f2f9"/>
+    <g id="video-camera_1_" data-name="video-camera (1)" transform="translate(578 3263.055)">
+      <g id="Grupo_31559" data-name="Grupo 31559" transform="translate(12.576 67.384)">
+        <g id="Grupo_31551" data-name="Grupo 31551" transform="translate(0 27.007)">
+          <g id="Grupo_31550" data-name="Grupo 31550">
+            <g id="Grupo_31549" data-name="Grupo 31549">
+              <path id="Trazado_28901" data-name="Trazado 28901" d="M60.732,428.256a2.146,2.146,0,1,1,1.982-2.969,2.163,2.163,0,0,1-1.982,2.969Z" transform="translate(-58.579 -423.974)" fill="#0f395a"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_31553" data-name="Grupo 31553" transform="translate(20.338 17.078)">
+          <g id="Grupo_31552" data-name="Grupo 31552">
+            <path id="Trazado_28902" data-name="Trazado 28902" d="M197.1,395.7H155.457a2.147,2.147,0,0,1-2.147-2.147V379.873a2.147,2.147,0,0,1,2.147-2.147H197.1a2.147,2.147,0,0,1,2.147,2.147v13.682A2.147,2.147,0,0,1,197.1,395.7Zm-39.5-4.294h37.351V382.02H157.6Z" transform="translate(-153.31 -377.726)" fill="#0f395a"/>
+          </g>
+        </g>
+        <g id="Grupo_31558" data-name="Grupo 31558" transform="translate(37.718)">
+          <g id="Grupo_31555" data-name="Grupo 31555">
+            <g id="Grupo_31554" data-name="Grupo 31554">
+              <path id="Trazado_28903" data-name="Trazado 28903" d="M241,311.666a6.744,6.744,0,1,1,6.736-6.744A6.748,6.748,0,0,1,241,311.666Zm0-9.194a2.45,2.45,0,1,0,2.442,2.45A2.449,2.449,0,0,0,241,302.472Z" transform="translate(-234.265 -298.178)" fill="#0f395a"/>
+            </g>
+          </g>
+          <g id="Grupo_31557" data-name="Grupo 31557" transform="translate(15.086)">
+            <g id="Grupo_31556" data-name="Grupo 31556">
+              <path id="Trazado_28904" data-name="Trazado 28904" d="M311.268,311.666A6.744,6.744,0,1,1,318,304.922,6.748,6.748,0,0,1,311.268,311.666Zm0-9.194a2.45,2.45,0,1,0,2.442,2.45A2.449,2.449,0,0,0,311.268,302.472Z" transform="translate(-304.532 -298.178)" fill="#0f395a"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_31563" data-name="Grupo 31563" transform="translate(0 4.288)">
+        <g id="Grupo_31560" data-name="Grupo 31560" transform="translate(50.634 8.972)">
+          <path id="Trazado_28905" data-name="Trazado 28905" d="M249.786,74a13.96,13.96,0,1,1,13.939-13.96A13.966,13.966,0,0,1,249.786,74Zm0-23.627a9.666,9.666,0,1,0,9.645,9.667,9.667,9.667,0,0,0-9.645-9.667Z" transform="translate(-235.846 -46.079)" fill="#0f395a"/>
+        </g>
+        <g id="Grupo_31561" data-name="Grupo 31561" transform="translate(0 0)">
+          <path id="Trazado_28906" data-name="Trazado 28906" d="M108.937,51.848a2.146,2.146,0,0,0-2.052-.148L90.218,59.294V53.579a7.723,7.723,0,0,0-7.71-7.72H77.9A22.914,22.914,0,1,0,43.825,17.528,22.9,22.9,0,1,0,9.751,45.859H7.71A7.723,7.723,0,0,0,0,53.579v51.071a7.724,7.724,0,0,0,7.71,7.72h74.8a7.724,7.724,0,0,0,7.71-7.72V98.935l16.667,7.594a2.147,2.147,0,0,0,3.037-1.954V53.654a2.147,2.147,0,0,0-.985-1.806ZM64.574,8.582a18.639,18.639,0,1,1-18.6,18.639,18.641,18.641,0,0,1,18.6-18.639ZM51.249,45.859H36.4a23.073,23.073,0,0,0,7.424-8.946A23.074,23.074,0,0,0,51.249,45.859ZM4.475,27.221a18.6,18.6,0,1,1,18.6,18.639,18.641,18.641,0,0,1-18.6-18.639Zm81.45,77.429a3.425,3.425,0,0,1-3.416,3.426H7.71a3.425,3.425,0,0,1-3.416-3.426V53.579A3.425,3.425,0,0,1,7.71,50.153h4.872V87.561a2.147,2.147,0,1,0,4.294,0V50.153H82.509a3.425,3.425,0,0,1,3.416,3.426Zm19.7-3.412-15.41-7.021v-30.2l15.41-7.021Z" transform="translate(0 -4.288)" fill="#0f395a"/>
+        </g>
+        <g id="Grupo_31562" data-name="Grupo 31562" transform="translate(9.137 8.972)">
+          <path id="Trazado_28907" data-name="Trazado 28907" d="M56.5,74a13.96,13.96,0,1,1,13.94-13.96A13.966,13.966,0,0,1,56.5,74Zm0-23.627a9.666,9.666,0,1,0,9.646,9.667A9.667,9.667,0,0,0,56.5,50.373Z" transform="translate(-42.559 -46.079)" fill="#0f395a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

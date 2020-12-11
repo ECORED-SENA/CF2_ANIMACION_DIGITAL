@@ -36,21 +36,32 @@ html(lang="es")
                             .card-body
 
                                 ul.list-group.list-group-flush.list.my-n3.nav-temas
-                                    +navTemaItem('play', 'Introducción', '#introduccion')
-                                    +navTemaItem('1', 'Normativa vigente proceso ECCL', '#tema-1')
-                                    +navTemaItem('question', 'Actividad didáctica', '#evaluacion')
+                                    +navTemaItem('1', 'Lenguaje audiovisual', '#tema-1')
+                                    +navTemaItem('2', 'Guión técnico', '#tema-2')
+                                    +navTemaItem('3', 'Técnicas y formatos de storyboarding', '#tema-3')
+                                    +navTemaItem('4', 'Dibujo básico', '#tema-4')
+                                    +navTemaItem('5', 'Elevator pitch', '#tema-5')
                                     +navTemaItem('glosary', 'Glosario', '#glosario')
                                     +navTemaItem('folder', 'Material complementario', '#anexos')
                                     +navTemaItem('references', 'Referencias bibliográficas', '#referencias')
 
 
         section#mainContent         
-            #introduccion
-                include pages/introduccion.pug
             #tema-1
-                include pages/1-tema.pug
-            #evaluacion
-                include pages/actividad-1.pug
+                include pages/tema-1.pug
+            #tema-2
+                include pages/tema-2.pug
+            #tema-3
+                include pages/tema-3.pug
+            #tema-4
+                include pages/tema-4.pug
+                include pages/tema-4-1.pug
+                include pages/tema-4-2.pug
+                include pages/tema-4-3.pug
+                include pages/tema-4-4.pug
+                include pages/tema-4-5.pug
+            #tema-5
+                include pages/tema-5.pug
             #glosario
                 include pages/glosario.pug
             #anexos
